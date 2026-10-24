@@ -1,0 +1,27 @@
+{
+  "updatedAt": "2026-10-24T09:29:09.497Z",
+  "packs": [
+    {
+      "file": "methode-nature-fr-k01.lango",
+      "bookId": "methode-nature-fr",
+      "bookTitle": "Le Français par la Méthode Nature",
+      "lang": "fr",
+      "chapter": 1,
+      "chapterTitle": "Les Duclos",
+      "sha256": "a9bee7f7be089e9498ecac86d438218bcf29bf01b827f8549602e2a7b6a5b955",
+      "size": 1784856,
+      "builtAt": "2026-10-24T07:54:20.386Z"
+    },
+    {
+      "file": "naturmethode-de-k01.lango",
+      "bookId": "naturmethode-de",
+      "bookTitle": "Deutsch nach der Naturmethode",
+      "lang": "de",
+      "chapter": 1,
+      "chapterTitle": "Die Familie",
+      "sha256": "84eb2fd98f087ab0066a6b315493656ce84aac0f05e145c3489ee2980ea5de66",
+      "size": 3390763,
+      "builtAt": "2026-10-24T07:47:20.973Z"
+    }
+  ]
+}
